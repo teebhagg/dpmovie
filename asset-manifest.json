@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dpmovies/static/css/main.4917b9b6.css",
+    "main.js": "/dpmovies/static/js/main.ffeb15a4.js",
+    "index.html": "/dpmovies/index.html",
+    "main.4917b9b6.css.map": "/dpmovies/static/css/main.4917b9b6.css.map",
+    "main.ffeb15a4.js.map": "/dpmovies/static/js/main.ffeb15a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4917b9b6.css",
+    "static/js/main.ffeb15a4.js"
+  ]
+}
